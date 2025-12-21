@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yIq1yHkLN6N9Z63fyWbO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="542" y="180" width="823" height="882" as="geometry" />
-        </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="200" y="82" width="1165" height="981" as="geometry" />
         </mxCell>
@@ -226,6 +223,9 @@
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-38" value="转动时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1215.25" y="985.5" width="86.25" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="yIq1yHkLN6N9Z63fyWbO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="542" y="180" width="823" height="882" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
