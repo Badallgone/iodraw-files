@@ -10,7 +10,7 @@
         <mxCell id="yIq1yHkLN6N9Z63fyWbO-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=default;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="542" y="176" width="823" height="885" as="geometry" />
         </mxCell>
-        <mxCell id="caYlxyFbjyaoqlilyxHq-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
+        <mxCell id="caYlxyFbjyaoqlilyxHq-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#f9f7ed;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="180" width="293" height="880" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-14" value="&lt;b&gt;&lt;span style=&quot;font-size:18.0pt;font-family:等线;&lt;br/&gt;mso-ascii-font-family:Arial;mso-hansi-font-family:Arial;mso-bidi-font-family:&lt;br/&gt;Arial;mso-font-kerning:0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA&quot;&gt;基于嵌入式系统控制的盆景植物智能拍照控制系统&lt;/span&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
