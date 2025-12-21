@@ -204,22 +204,22 @@
           <mxGeometry x="1213.5" y="851.5" width="88" height="37" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-31" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#cce5ff;sketch=1;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="1059.75" y="896.5" width="101" height="131.5" as="geometry" />
+          <mxGeometry x="1040" y="901.5" width="101" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-32" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#cce5ff;sketch=1;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="1207.87" y="896.5" width="101" height="131.5" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-33" value="对焦模&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%E7%9B%B8%E6%9C%BA%E8%AE%BE%E7%BD%AE%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23b1ddf0%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221072.75%22%20y%3D%22853%22%20width%3D%2291%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1067.13" y="906.5" width="86.25" height="36" as="geometry" />
+          <mxGeometry x="1045" y="911" width="86.25" height="36" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-34" value="拍摄模&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap-mode: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26amp%3Bnbsp%3B%E7%9B%B8%E6%9C%BA%E8%AE%BE%E7%BD%AE%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23b1ddf0%3BstrokeColor%3Dnone%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221072.75%22%20y%3D%22853%22%20width%3D%2291%22%20height%3D%2237%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1067.13" y="949.5" width="86.25" height="36" as="geometry" />
+          <mxGeometry x="1047.38" y="954.5" width="86.25" height="36" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-35" value="补光模式" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1067.13" y="989" width="86.25" height="36" as="geometry" />
+          <mxGeometry x="1047.38" y="994" width="86.25" height="36" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-36" value="转动角度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1215.25" y="901.5" width="86.25" height="36" as="geometry" />
+          <mxGeometry x="1215.25" y="900" width="86.25" height="39" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-37" value="转动速度" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1215.25" y="944.25" width="86.25" height="36" as="geometry" />
