@@ -20,7 +20,7 @@
           <mxGeometry x="455" y="79" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v1qfqNAHcF-pZ6Q15JeE-125" value="&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 16px;&quot;&gt;系统实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="817" y="79" width="120" height="60" as="geometry" />
+          <mxGeometry x="887" y="79" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v1qfqNAHcF-pZ6Q15JeE-126" value="&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 16px;&quot;&gt;系统评价&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1179" y="84" width="120" height="60" as="geometry" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="v1qfqNAHcF-pZ6Q15JeE-129" value="&lt;font face=&quot;微软雅黑&quot; style=&quot;font-size: 16px;&quot;&gt;硬件选型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="612" y="208" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v1qfqNAHcF-pZ6Q15JeE-134" value="&lt;font face=&quot;微软雅黑&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;硬件设计&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="783" y="208" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
