@@ -106,7 +106,7 @@
         <mxCell id="caYlxyFbjyaoqlilyxHq-65" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="909" y="471.25" width="33" height="18.5" as="geometry" />
         </mxCell>
-        <mxCell id="caYlxyFbjyaoqlilyxHq-66" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;控制端&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;dashed=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#36393d;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" parent="1" vertex="1">
+        <mxCell id="caYlxyFbjyaoqlilyxHq-66" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;PC控制端&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;dashed=1;sketch=1;fillWeight=4;hachureGap=8;hachureAngle=45;strokeColor=#36393d;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#cce5ff;" parent="1" vertex="1">
           <mxGeometry x="959" y="413" width="135.5" height="135" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-68" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;rotation=-180;" parent="1" vertex="1">
