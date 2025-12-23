@@ -7,7 +7,7 @@
         <mxCell id="v1qfqNAHcF-pZ6Q15JeE-160" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="479" y="36" width="688" height="772" as="geometry" />
         </mxCell>
-        <mxCell id="v1qfqNAHcF-pZ6Q15JeE-136" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;盆景植物智能拍照系统技术路线&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=24;arcSize=45;fillColor=#feccc9;" vertex="1" parent="1">
+        <mxCell id="v1qfqNAHcF-pZ6Q15JeE-136" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; word-break: normal;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;盆景植物智能拍照系统技术路线&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;imageWidth=24;arcSize=45;fillColor=#ffe7cd;" vertex="1" parent="1">
           <mxGeometry x="535" y="73" width="573" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v1qfqNAHcF-pZ6Q15JeE-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="v1qfqNAHcF-pZ6Q15JeE-137" target="v1qfqNAHcF-pZ6Q15JeE-138">
