@@ -234,10 +234,10 @@
         <mxCell id="dgnLeiVMRyHZWehN2lc4-19" value="摄像头ID读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry x="9.352871287128853" y="52.974504249291776" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-20" value="波特率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
+        <mxCell id="dgnLeiVMRyHZWehN2lc4-20" value="图像显示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry x="9.352871287128853" y="98.26770538243625" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-21" value="8/N/1控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
+        <mxCell id="dgnLeiVMRyHZWehN2lc4-21" value="控制信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry x="9.352871287128853" y="141.97167138810198" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
       </root>
