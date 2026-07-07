@@ -118,42 +118,37 @@
         <mxCell id="mMtdhjcjycs0nShyuQkw-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;控制设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="1064" y="759" width="124" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-16" target="mMtdhjcjycs0nShyuQkw-19" edge="1">
+        <mxCell id="mMtdhjcjycs0nShyuQkw-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="874" />
               <mxPoint x="730" y="936" />
             </Array>
+            <mxPoint x="750" y="936.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-16" value="角度控制" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=default;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="853" width="79.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-17" target="mMtdhjcjycs0nShyuQkw-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="mMtdhjcjycs0nShyuQkw-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="936.0000000000002" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-17" value="灯光控制" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="915" width="79.5" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-18" target="mMtdhjcjycs0nShyuQkw-19" edge="1">
+        <mxCell id="mMtdhjcjycs0nShyuQkw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-18" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="730" y="996" />
               <mxPoint x="730" y="936" />
             </Array>
+            <mxPoint x="750" y="936.0000000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-18" value="焦距控制" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="635.5" y="975" width="79.5" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#1ba1e2;strokeColor=#006EAF;" parent="1" source="mMtdhjcjycs0nShyuQkw-19" target="mMtdhjcjycs0nShyuQkw-20" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-19" value="拍&lt;div&gt;摄&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="750" y="895" width="45" height="82" as="geometry" />
-        </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-20" value="获取图象" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="823" y="865" width="79.5" height="142" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1706" y="168" width="142" height="197" as="geometry" />
@@ -207,7 +202,7 @@
           <mxGeometry x="909" y="759" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-9" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="1076" y="825" width="128" height="187" as="geometry" />
+          <mxGeometry x="907" y="820" width="128" height="187" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-10" value="&amp;nbsp;转台设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-9">
           <mxGeometry x="7.135049504950634" width="111.52475247524754" height="39.20113314447591" as="geometry" />
