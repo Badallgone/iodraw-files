@@ -98,7 +98,7 @@
           <mxGeometry x="1186" y="582.5" width="51" height="51" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="555" y="643" width="811" height="420" as="geometry" />
+          <mxGeometry x="600" y="641" width="811" height="420" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-73" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;界面控制&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="896" y="583" width="114" height="47" as="geometry" />
@@ -113,10 +113,7 @@
           <mxGeometry x="1168.75" y="413" width="135.5" height="135" as="geometry" />
         </mxCell>
         <mxCell id="mMtdhjcjycs0nShyuQkw-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;主界面&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
-          <mxGeometry x="763" y="701" width="424" height="46" as="geometry" />
-        </mxCell>
-        <mxCell id="mMtdhjcjycs0nShyuQkw-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;控制设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1064" y="759" width="124" height="43" as="geometry" />
+          <mxGeometry x="756" y="765" width="424" height="46" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-4" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1706" y="168" width="142" height="197" as="geometry" />
@@ -166,9 +163,6 @@
         <mxCell id="mMtdhjcjycs0nShyuQkw-38" value="转动时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" parent="dgnLeiVMRyHZWehN2lc4-7" vertex="1">
           <mxGeometry x="9.499009900990242" y="159.43342776203966" width="111.01485148514851" height="42.8328611898017" as="geometry" />
         </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;连接设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="896" y="762" width="80" height="31" as="geometry" />
-        </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-9" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="891" y="820" width="128" height="212" as="geometry" />
         </mxCell>
@@ -186,9 +180,6 @@
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-14" value="8/N/1控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-9">
           <mxGeometry x="9.352871287128853" y="160.95184135977337" width="109.3069306930693" height="43.240793201133144" as="geometry" />
-        </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-15" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;连接设置&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="785" y="765" width="80" height="31" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-16" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="756" y="820" width="128" height="210" as="geometry" />
