@@ -231,7 +231,7 @@
         <mxCell id="dgnLeiVMRyHZWehN2lc4-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#cce5ff;sketch=1;strokeColor=#36393d;dashed=1;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry y="47.6770538243626" width="128" height="139.32294617563738" as="geometry" />
         </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-19" value="摄像头图像显示" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
+        <mxCell id="dgnLeiVMRyHZWehN2lc4-19" value="摄像头ID读取" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry x="9.352871287128853" y="52.974504249291776" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-20" value="波特率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
