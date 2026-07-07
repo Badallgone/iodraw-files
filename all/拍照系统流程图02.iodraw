@@ -59,13 +59,13 @@
           <mxGeometry x="566" y="187" width="34" height="371" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-41" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PWM调波&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="763" y="201" width="120" height="46" as="geometry" />
+          <mxGeometry x="1714" y="174" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-42" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;GPIO1&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="763" y="264.5" width="120" height="46" as="geometry" />
+          <mxGeometry x="1714" y="237.5" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-43" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;GPIO2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;glass=0;fillColor=#b1ddf0;strokeColor=#10739e;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
-          <mxGeometry x="763" y="324" width="120" height="46" as="geometry" />
+          <mxGeometry x="1714" y="297" width="120" height="46" as="geometry" />
         </mxCell>
         <mxCell id="caYlxyFbjyaoqlilyxHq-44" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#ffcc99;sketch=1;strokeColor=#36393d;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="959" y="185" width="142" height="197" as="geometry" />
