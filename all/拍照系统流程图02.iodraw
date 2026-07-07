@@ -216,7 +216,7 @@
         <mxCell id="dgnLeiVMRyHZWehN2lc4-13" value="波特率" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-9">
           <mxGeometry x="9.352871287128853" y="98.26770538243625" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
-        <mxCell id="dgnLeiVMRyHZWehN2lc4-14" value="转动时间" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-9">
+        <mxCell id="dgnLeiVMRyHZWehN2lc4-14" value="8/N/1控制" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-9">
           <mxGeometry x="9.352871287128853" y="141.97167138810198" width="109.3069306930693" height="38.14164305949008" as="geometry" />
         </mxCell>
       </root>
