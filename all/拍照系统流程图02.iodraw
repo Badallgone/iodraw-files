@@ -223,7 +223,7 @@
           <mxGeometry x="763" y="759" width="124" height="43" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-16" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="917" y="830" width="128" height="187" as="geometry" />
+          <mxGeometry x="760" y="820" width="128" height="187" as="geometry" />
         </mxCell>
         <mxCell id="dgnLeiVMRyHZWehN2lc4-17" value="&amp;nbsp;串口设置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=none;" vertex="1" parent="dgnLeiVMRyHZWehN2lc4-16">
           <mxGeometry x="7.135049504950634" width="111.52475247524754" height="39.20113314447591" as="geometry" />
